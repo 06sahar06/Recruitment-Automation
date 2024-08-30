@@ -3,7 +3,7 @@ import requests
 import time
 import json
 
-GITHUB_ACCESS_TOKEN = "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"  
+GITHUB_ACCESS_TOKEN = "insert your access token here"  
 
 MAX_PROFILES = 50
 GITHUB_API_URL = "https://api.github.com"
