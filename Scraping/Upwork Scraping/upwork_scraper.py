@@ -1,4 +1,4 @@
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="insert your API KEY here"
 
 import streamlit as st
 import os
